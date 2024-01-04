@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/pyload/pyload/main/media/banner.png" alt="pyLoad" height="110" />
 </p>
-<h2 align="center">The free and open-source Download Manager written in pure Python</h2>
+<h2 align="center">The free and open-source modded Download Manager written in pure Python</h2>
 <h4 align="center">
   <img alt="status" src="https://img.shields.io/pypi/status/pyload-ng?style=flat-square">
   <a href="https://github.com/pyload/pyload/actions">
